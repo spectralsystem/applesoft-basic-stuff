@@ -2,7 +2,7 @@
 99  VTAB 24
 100  INPUT "INPUT SEED: ";S
 101  HOME 
-105 
+105  R = 1
 110 X =  INT ( RND (S) * 6) + 1:Y
       =  INT ( RND (S) * 6) + 1:Z
       =  INT ( RND (S) * 6) + 1:R
